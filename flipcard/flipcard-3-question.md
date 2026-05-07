@@ -1,7 +1,4 @@
 ---
-topic: "plants"
+topic: "Species"
 ---
-
-What plant is shown here?
-
-![20260420134822.png](./20260420134822.png)
+What is the name of Han Solo's ship?
